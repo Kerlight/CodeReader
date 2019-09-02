@@ -1,0 +1,11 @@
+D:\个人代码\Myexicse\TcpTest\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\个人代码\Myexicse\TcpTest\Common\bin\Debug\Common.dll
+D:\个人代码\Myexicse\TcpTest\Common\bin\Debug\Common.pdb
+D:\个人代码\Myexicse\TcpTest\Common\obj\Debug\Common.dll
+D:\个人代码\Myexicse\TcpTest\Common\obj\Debug\Common.pdb
+D:\个人代码\Myexicse\CodeReaderConnectionTest\Common\bin\Debug\Common.dll
+D:\个人代码\Myexicse\CodeReaderConnectionTest\Common\bin\Debug\Common.pdb
+D:\个人代码\Myexicse\CodeReaderConnectionTest\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\个人代码\Myexicse\CodeReaderConnectionTest\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\个人代码\Myexicse\CodeReaderConnectionTest\Common\obj\Debug\Common.dll
+D:\个人代码\Myexicse\CodeReaderConnectionTest\Common\obj\Debug\Common.pdb

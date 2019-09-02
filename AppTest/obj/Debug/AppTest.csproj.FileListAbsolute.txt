@@ -1,0 +1,11 @@
+D:\个人代码\Myexicse\TcpTest\AppTest\bin\Debug\AppTest.exe.config
+D:\个人代码\Myexicse\TcpTest\AppTest\obj\Debug\AppTest.csprojResolveAssemblyReference.cache
+D:\个人代码\Myexicse\TcpTest\AppTest\obj\Debug\AppTest.CodeReaderFrm.resources
+D:\个人代码\Myexicse\TcpTest\AppTest\obj\Debug\AppTest.Properties.Resources.resources
+D:\个人代码\Myexicse\TcpTest\AppTest\obj\Debug\AppTest.csproj.GenerateResource.Cache
+D:\个人代码\Myexicse\TcpTest\AppTest\bin\Debug\AppTest.exe
+D:\个人代码\Myexicse\TcpTest\AppTest\bin\Debug\AppTest.pdb
+D:\个人代码\Myexicse\TcpTest\AppTest\bin\Debug\Common.dll
+D:\个人代码\Myexicse\TcpTest\AppTest\bin\Debug\Common.pdb
+D:\个人代码\Myexicse\TcpTest\AppTest\obj\Debug\AppTest.exe
+D:\个人代码\Myexicse\TcpTest\AppTest\obj\Debug\AppTest.pdb
